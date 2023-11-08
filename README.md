@@ -12,3 +12,6 @@ Here is some more text
 ### Results
 Again some text about results this time
 
+## Conclusion
+* Point 1
+* Point 2
